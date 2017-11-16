@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_schema_attribute">
+    <sys_schema_attribute action="INSERT_OR_UPDATE">
+        <applies_to>BOTH</applies_to>
+        <applies_to_description/>
+        <column_on_table/>
+        <column_type/>
+        <description/>
+        <label>pn_display_territory_selector</label>
+        <name>u_pn_display_territory_selector</name>
+        <on_table/>
+        <read_roles/>
+        <remove_roles/>
+        <sys_class_name>sys_schema_attribute</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-10-08 16:36:02</sys_created_on>
+        <sys_id>84edfd734f6903002f6201f18110c7bd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>pn_display_territory_selector</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_schema_attribute_84edfd734f6903002f6201f18110c7bd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-10-08 16:36:02</sys_updated_on>
+        <update_roles/>
+        <value_description/>
+        <value_type display_value="True/False">17d3ba81bf3320001875647fcf0739dc</value_type>
+    </sys_schema_attribute>
+</record_update>
